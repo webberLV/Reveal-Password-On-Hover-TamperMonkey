@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Reveal Password On Hover
-// @namespace    RevealPasswordOnHover
+// @namespace    https://greasyfork.org/users/668999-notorious
 // @match        *://*/*
 // @description  Temporarily shows password text while the field is focused
 // @author       webberLV
@@ -9,8 +9,6 @@
 // @downloadURL  https://update.greasyfork.org/scripts/563194/Reveal%20Password%20On%20Hover.user.js
 // @updateURL    https://update.greasyfork.org/scripts/563194/Reveal%20Password%20On%20Hover.meta.js
 // ==/UserScript==
-
-
 
 (function () {
   "use strict";
