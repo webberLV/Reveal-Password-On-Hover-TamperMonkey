@@ -1,14 +1,13 @@
 // ==UserScript==
-// @name       Show password when focus on password field
-// @namespace  https://github.com/webberLV/Reveal-Password-On-Hover-TamperMonkey/edit/main/Reveal%20Password%20On%20Hover.js
+// @name         Reveal Password On Hover
 // @namespace    Reveal Password On Hover
 // @match        *://*/*
 // @description  Show password when focus on password field
 // @author       webberLV
 // @license      MIT
 // @version      1.1
-// @downloadURL https://update.greasyfork.org/scripts/563194/Reveal%20Password%20On%20Hover.user.js
-// @updateURL https://update.greasyfork.org/scripts/563194/Reveal%20Password%20On%20Hover.meta.js
+// @downloadURL  https://update.greasyfork.org/scripts/563194/Reveal%20Password%20On%20Hover.user.js
+// @updateURL    https://update.greasyfork.org/scripts/563194/Reveal%20Password%20On%20Hover.meta.js
 // ==/UserScript==
 
 
