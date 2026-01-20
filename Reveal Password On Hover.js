@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Show password when focus on password field
-// @namespace   https://openuserjs.org/users/Notorious  https://greasyfork.org/en/users/668999-notorious
+// @namespace  https://github.com/webberLV/Reveal-Password-On-Hover-TamperMonkey/edit/main/Reveal%20Password%20On%20Hover.js
 // @namespace    Reveal Password On Hover
 // @match        *://*/*
 // @description  Show password when focus on password field
